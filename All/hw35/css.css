@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    gap: 15px;
+}
+
+#sidebar {
+    display: none;
+    width: 170px;
+    height: 60px;
+    background-color: grey;
+    border-radius: 15px;
+}
+
+h3 {
+    text-align: center;
+    margin: 10px 0;
+    color: white; 
+}
