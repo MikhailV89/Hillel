@@ -1,0 +1,23 @@
+.gallery {
+    width: 500px;
+    height:400px;  
+}
+
+img {
+    width: 500px;
+    height: 400px;
+}
+
+button {
+    padding: 15px 10px;  
+    background-color: salmon;
+    color: black;
+    border-radius: 50px;
+    text-transform: uppercase;
+
+}
+
+button:hover {
+    background-color: aqua;
+    color: brown;
+}
