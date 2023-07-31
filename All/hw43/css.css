@@ -1,0 +1,56 @@
+form {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+table, th, td {
+    border: 2px solid black;
+    padding: 5px;
+}
+
+label, option {
+    font-size: 30px;
+}
+
+select {
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 20px;
+    padding: 5px;
+}
+
+button {
+    padding: 10px 30px;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 20px;
+    border: none;
+    background-color: salmon;
+}
+
+#firstName, #lastName, #birthdate {
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+#dataTable {
+    font-size: 25px;
+    padding: 20px;
+}
+
+#address {
+    width: 300px; 
+    height: 300px;
+    margin-left: 50px;
+    border-radius: 30px;
+    padding: 10px 20px;
+    font-size: 25px;
+}
+
+#dataTable {
+    display: none;
+}
